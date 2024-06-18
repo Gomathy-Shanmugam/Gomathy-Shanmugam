@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Fullstack Developer Course**
 
-- 💬 Ask me about **HTML,CSS,Basic of Javascript**
+- 💬 Ask me about **HTML,CSS,Javascript,ReactJs,MongoDB,NodeJs**
 
 - 📫 How to reach me **gomathy17012002@gmail.com**
 
