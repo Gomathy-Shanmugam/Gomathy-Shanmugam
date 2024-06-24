@@ -1,5 +1,6 @@
+<img src = "https://www.canva.com/design/DAGJC-G4pbk/2jI1MoVmJEM9DAxXtXYPTQ/view">
 <h1 align="center" >Hi 👋, I'm Gomathy</h1>
-<img src = "https://export-download.canva.com/dDMvc/DAF77YdDMvc/2/0/0001-7835555185393738554.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20240204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240204T220640Z&X-Amz-Expires=61258&X-Amz-Signature=103840ccac6886151511415df0a055039990b09948657e6ee45ff2e68208e1c4&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Black%2520Minimalist%2520Motivation%2520Quote%2520LinkedIn%2520Banner.png&response-expires=Mon%2C%2005%20Feb%202024%2015%3A07%3A38%20GMT">
+
 <h3 align="center"><b>A passionate Fullstack developer</b></h3>
 
 - 🌱 I’m currently learning **Fullstack Developer Course**
